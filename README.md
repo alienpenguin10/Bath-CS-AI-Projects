@@ -4,10 +4,11 @@ A collection of coursework projects from my Computer Science and Artificial Inte
 
 ## 🎯 Project Overview
 
-This repository contains 7 diverse projects covering different aspects of computer science and artificial intelligence:
+This repository contains 8 diverse projects covering different aspects of computer science and artificial intelligence:
 
 ### 🤖 Artificial Intelligence & Machine Learning
 - **[Computer Vision](./computer-vision/)** - Computer vision algorithms and image processing techniques
+- **[Deep Learning](./deep-learning/)** - Deep learning practice and neural network implementations (CM20315 resources)
 - **[Sudoku](./sudoku/)** - Logic programming and constraint satisfaction problem solving
 
 ### 🧮 Algorithms & Data Structures
@@ -47,6 +48,7 @@ Each project contains its own documentation and setup instructions. Navigate to 
 ```
 Bath-CS-AI-Projects/
 ├── computer-vision/          # Computer vision and image processing
+├── deep-learning/            # Deep learning and neural networks
 ├── dungeon-of-doom/          # Game development project
 ├── SRPN/                     # Saturated Reverse Polish Notation
 ├── sudoku/                   # Logic programming and CSP
